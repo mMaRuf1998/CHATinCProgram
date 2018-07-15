@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1531554332 source:c:\users\home\documents\chat_bot\main.c
+	<stdio.h>
+	<string.h>
+	<curl/curl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<io.h>
+	<unistd.h>
+
+1531596898 source:c:\users\home\desktop\chat_bot_me\main.c
+	<stdio.h>
+	<string.h>
+	<curl/curl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<io.h>
+	<unistd.h>
+
